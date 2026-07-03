@@ -12,6 +12,6 @@ export default defineConfig({
     bin: {
       sta: "./index.ts",
       "swagger-typescript-api": "./index.ts",
-    }
+    },
   },
 });
